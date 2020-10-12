@@ -1,5 +1,4 @@
-# Class-1
-Class 1
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,12 +116,7 @@ Class 1
 <option value=" Location">Denmark</option>
 <option value=" Location">Dominica</option>
            
-
-
-
-
-
-
+           
           </select> <br> <br>
 
           Input image<br>
